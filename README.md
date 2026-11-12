@@ -1,10 +1,15 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/WEB_TOOL-VIRTUAL_PET_WIDGET_BUILDER-101010?style=for-the-badge&labelColor=050805&color=00FF41" alt="Virtual Pet Widget Builder"/>
+  <img src="https://img.shields.io/badge/HTML_CSS_JS-EXPORTABLE_WIDGET-101010?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript"/>
+</p>
+
 # Virtual Pet Widget Builder
 
-A browser editor for creating an interactive virtual pet, customising its appearance and behaviour, and exporting the result as a standalone HTML widget.
+Browser editor for creating an interactive virtual pet, customising its appearance and behaviour, and exporting the result as a standalone HTML widget.
 
 <p align="center">
-  <a href="https://tzayadet.github.io/Pet-Gen/"><img src="https://img.shields.io/badge/LIVE_DEMO-OPEN-00a86b?style=flat-square" alt="Live demo"></a>
-  <a href="https://github.com/tzayadet/Pet-Gen"><img src="https://img.shields.io/badge/SOURCE-GITHUB-161b22?style=flat-square&logo=github" alt="Source"></a>
+  <a href="https://tzayadet.github.io/Pet-Gen/"><strong>LIVE DEMO ↗</strong></a> ·
+  <a href="https://github.com/tzayadet/Pet-Gen"><strong>SOURCE CODE</strong></a>
 </p>
 
 ## Features
@@ -26,7 +31,7 @@ HTML5, CSS3, JavaScript, localStorage, Blob API and Clipboard API.
 
 ## Privacy and limitations
 
-Progress is stored in the browser's local storage. It is not synchronised with a server and may be lost when site data is cleared or another device is used.
+Progress is stored in browser local storage. It is not synchronised with a server and may be lost when site data is cleared or another device is used.
 
 ## Deployment
 
