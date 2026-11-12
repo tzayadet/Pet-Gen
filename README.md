@@ -12,6 +12,8 @@ Browser editor for creating an interactive virtual pet, customising its appearan
   <a href="https://github.com/tzayadet/Pet-Gen"><strong>SOURCE CODE</strong></a>
 </p>
 
+[![Quality checks](https://github.com/tzayadet/Pet-Gen/actions/workflows/quality.yml/badge.svg)](https://github.com/tzayadet/Pet-Gen/actions/workflows/quality.yml)
+
 ## Features
 
 - Customise name, colour, theme, size, speed and position.
