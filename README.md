@@ -1,30 +1,37 @@
 # Virtual Pet Widget Builder
 
-Editor web para crear una mascota virtual interactiva, personalizar su apariencia y comportamiento y exportar el widget como HTML independiente.
+A browser editor for creating an interactive virtual pet, customising its appearance and behaviour, and exporting the result as a standalone HTML widget.
 
-**Demo:** [abrir el editor](https://tzayadet.github.io/Pet-Gen/) · **Código:** [repositorio](https://github.com/tzayadet/Pet-Gen)
+<p align="center">
+  <a href="https://tzayadet.github.io/Pet-Gen/"><img src="https://img.shields.io/badge/LIVE_DEMO-OPEN-00a86b?style=flat-square" alt="Live demo"></a>
+  <a href="https://github.com/tzayadet/Pet-Gen"><img src="https://img.shields.io/badge/SOURCE-GITHUB-161b22?style=flat-square&logo=github" alt="Source"></a>
+</p>
 
-## Funciones
+## Features
 
-- Personalización de nombre, color, tema, tamaño, velocidad y posición.
-- Vista previa interactiva.
-- Acciones de alimentación, cuidado, entrenamiento, descanso y juego.
-- Estados, experiencia, niveles, logros y estadísticas.
-- Guardado local del progreso.
-- Exportación, copia y descarga del HTML generado.
+- Customise name, colour, theme, size, speed and position.
+- Interactive preview.
+- Feeding, care, training, rest and play actions.
+- States, experience, levels, achievements and statistics.
+- Local progress storage.
+- HTML export, copy and download.
 
-## Tecnologías
+## Use it
 
-HTML5, CSS3, JavaScript, LocalStorage, Blob API y Clipboard API.
+Open the [live editor](https://tzayadet.github.io/Pet-Gen/) in a modern browser. No installation or backend is required.
 
-## Privacidad
+## Technology
 
-El progreso se guarda en el almacenamiento local del navegador. No se sincroniza con un servidor y puede perderse al borrar los datos del sitio o cambiar de dispositivo.
+HTML5, CSS3, JavaScript, localStorage, Blob API and Clipboard API.
 
-## Despliegue
+## Privacy and limitations
 
-Aplicación estática publicada mediante GitHub Pages.
+Progress is stored in the browser's local storage. It is not synchronised with a server and may be lost when site data is cleared or another device is used.
 
-## Licencia
+## Deployment
 
-Consulta [LICENSE](LICENSE).
+Static application published through GitHub Pages.
+
+## License
+
+See [LICENSE](LICENSE) for the repository's licensing terms.
