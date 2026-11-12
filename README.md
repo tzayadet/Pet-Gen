@@ -1,37 +1,25 @@
-# PET WIDGET GENERATOR
+# Virtual Pet Widget Builder
 
-Generador de una mascota virtual interactiva y configurable. Permite personalizar su apariencia y comportamiento, probar el widget y exportar el resultado como HTML.
+Editor web para crear una mascota virtual interactiva, personalizar su apariencia y comportamiento y exportar el widget como HTML independiente.
 
-**Demo:** https://tzayadet.github.io/Pet-Gen/  
-**Código:** https://github.com/tzayadet/Pet-Gen
+**Demo:** [abrir el editor](https://tzayadet.github.io/Pet-Gen/) · **Código:** [repositorio](https://github.com/tzayadet/Pet-Gen)
 
-## Funcionalidades
+## Funciones
 
-- Configuración de nombre, color, tema, tamaño y velocidad.
-- Selección de posición del widget.
+- Personalización de nombre, color, tema, tamaño, velocidad y posición.
 - Vista previa interactiva.
-- Acciones de cuidado, alimentación, entrenamiento, descanso y juego.
-- Indicadores de estado, experiencia y nivel.
-- Sistema de logros y estadísticas.
-- Guardado local del progreso del widget generado.
-- Exportación de configuración.
-- Generación, copia y descarga del HTML resultante.
-
-## Uso
-
-Abre la [demo](https://tzayadet.github.io/Pet-Gen/), configura la mascota, comprueba el resultado en la vista previa y utiliza las opciones de generación o exportación para obtener el widget.
+- Acciones de alimentación, cuidado, entrenamiento, descanso y juego.
+- Estados, experiencia, niveles, logros y estadísticas.
+- Guardado local del progreso.
+- Exportación, copia y descarga del HTML generado.
 
 ## Tecnologías
 
-- HTML5
-- CSS3
-- JavaScript
-- LocalStorage
-- Blob API y Clipboard API del navegador
+HTML5, CSS3, JavaScript, LocalStorage, Blob API y Clipboard API.
 
 ## Privacidad
 
-El progreso del widget generado se guarda en el almacenamiento local del navegador. Al borrar los datos del sitio o cambiar de navegador/dispositivo, ese progreso puede perderse. No se utiliza un backend propio para sincronizarlo.
+El progreso se guarda en el almacenamiento local del navegador. No se sincroniza con un servidor y puede perderse al borrar los datos del sitio o cambiar de dispositivo.
 
 ## Despliegue
 
